@@ -1,0 +1,6 @@
+{
+  "name": "Checklist do Restaurante",
+  "description": "Aplicativo de checklist operacional para garçons, cozinheiras e outros setores com comprovação fotográfica e relatórios ao gestor.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
